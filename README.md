@@ -1,3 +1,6 @@
+I have filtered out the coordinates that belong to Telangana and performed K Means clustering on the longitude, latitude coordinates
+
+
 Data Filtering:
 Extract the entries corresponding to home state from the dataset.
 Data Visualization:
